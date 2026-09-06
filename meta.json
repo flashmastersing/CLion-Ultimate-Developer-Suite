@@ -1,0 +1,23 @@
+{
+  "repo": "clion-ultimate-developer-suite",
+  "product": "CLion Ultimate Developer Suite",
+  "kind": "dev",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "dev",
+  "topics": [
+    "clion-ide",
+    "cpp-development",
+    "cmake-projects",
+    "jetbrains-clion",
+    "native-debugging",
+    "clion-setup-failed-fix",
+    "how-to-install-clion",
+    "clion-windows",
+    "clion-desktop-2026",
+    "clion-desktop-package"
+  ],
+  "site": "toolix.me"
+}
